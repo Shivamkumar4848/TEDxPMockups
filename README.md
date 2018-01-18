@@ -1,2 +1,2 @@
-# TEDxMockups
-> Unique Mockups, by Unique Developers for @TEDxHQ
+# TEDxPMockups
+> Unique Mockups, by Unique Developers for @TEDxP
